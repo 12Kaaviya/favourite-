@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    padding-top: 10px;
+    text-align:center;
+  background: linear-gradient(#87e5f9 0%,  #ffa1ee 100%);
+  }
+  
+  #I{
+    width: 175px;
+    height: 175px;
+  border-radius: 70%;
+  }
+  
+  
+   
+  
+  h1 {
+    font-size: 40px;
+    line-height: 1.2;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+  }
+  
+  
+  
+  .line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+  }
+  
+  p {
+    max-width: 450px;
+    margin: 25px auto;
+    font-size: 25px;
+    line-height: 1.3;
+  }
+  
+  #S {
+    width: 250px;
+    height: 200px;
+    padding-bottom: 10px;
+    margin: 10px;
+    border-style: groove;
+    transform: scale(0.9);
+  }
